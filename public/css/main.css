@@ -1,0 +1,26 @@
+.board{
+  background-color: #6699FF;
+  width: 100%;
+  height: 75px;
+  border-style: solid;
+  border-color: #DDDDDD;
+  margin-left: 15px;
+  border-radius: 5px;
+}
+h2{
+  color:white;
+}
+.mar{
+  margin-left: auto;
+  margin-right: auto;
+}
+.a{
+  background-color: #6699FF;
+}
+.add{
+  color:white;
+}
+.x{
+  margin-top: 20px;
+  margin-left:22px;
+}
